@@ -1,0 +1,84 @@
+div {
+  border: 3px solid;
+  border-radius: 0;
+}
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.app-title {
+  color: #4285f4;
+  font-size: 28px;
+}
+
+.app-subtitle {
+  color: #4285f4;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.app-button {
+  background-color: #34a853;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 0px;
+  transition: background-color 0.3s ease;
+}
+
+.app-button:hover {
+  background-color: #2d8bff;
+}
+
+.cocktail-container {
+  margin-top: 30px;
+  border: 3px solid;
+  padding: 20px;
+  border-radius: 0px;
+}
+
+.cocktail-name {
+  color: #ff4081;
+  font-size: 24px;
+}
+
+.alcoholic-type {
+  margin: 10px 0;
+}
+
+.cocktail-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.ingredients-title {
+  color: #673ab7;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.ingredients-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.ingredients-list li {
+  font-size: 18px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.instructions-title {
+  color: #009688;
+  font-size: 20px;
+}
+.youtubeLink-title {
+  color: navy;
+  font-size: 15px;
+}
